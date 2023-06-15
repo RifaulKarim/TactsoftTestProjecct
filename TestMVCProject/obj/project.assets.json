@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\LiponProject\\TestMVCProject\\TestMVCProject\\TestMVCProject.csproj",
+      "projectUniqueName": "C:\\LiponProject\\TactsoftTestProjecct\\TestMVCProject\\TestMVCProject.csproj",
       "projectName": "TestMVCProject",
-      "projectPath": "C:\\LiponProject\\TestMVCProject\\TestMVCProject\\TestMVCProject.csproj",
+      "projectPath": "C:\\LiponProject\\TactsoftTestProjecct\\TestMVCProject\\TestMVCProject.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\LiponProject\\TestMVCProject\\TestMVCProject\\obj\\",
+      "outputPath": "C:\\LiponProject\\TactsoftTestProjecct\\TestMVCProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
